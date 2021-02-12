@@ -1,4 +1,3 @@
-//Dynamic Breed Input
 const request = require("request");
 
 // -------------------------------------------------------------//
